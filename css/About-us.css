@@ -1,0 +1,89 @@
+body{
+background: #E5E5E5;
+font-family:'Poppins', sans-serif;
+}
+.header-text p{
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+    color: #F4F4F4;
+    opacity: 0.7;
+    width: 698px;
+    height: 102.69px;
+}
+.header-text h2{
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 50px;
+color: #FFFFFF;
+}
+.headofpage{
+
+background: #476FA8;
+border-radius: 0px 0px 700px 0px;
+width: 1440px;
+height: 401px;
+}
+.headofpage a{
+width: 100px;
+height: 21px;
+left: 549.53px;
+top: 42px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+
+
+/* Basic / White */
+
+color: #FFFFFF;
+}
+
+.bo-text h2{
+width: 962.96px;
+height: 74.79px;
+left: 239.01px;
+top: 509.46px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 50px;
+text-align: center;
+color: #162C61;
+
+}
+.bo-text{
+width: 1172px;
+height: 481px;
+left: 134px;
+top: 466px;
+border-radius: 12px;
+background: #FFFFFF;
+}
+.bo-text p {
+left: 15.08%;
+right: 15.02%;
+top: 34.41%;
+bottom: 47.23%;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 30px;
+align-items: center;
+text-align: center;
+color: #2C2C2C;
+opacity: 0.7;
+}
